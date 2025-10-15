@@ -1,12 +1,12 @@
 void main() {
 
-	// final
+	// final keyword
 	final city = 'Kolkata';
 	//var city = 'kerela';     // Throws an error,  Previous declaration of 'city'.
 
 	final String countryName = 'India';
 
-	// const
+	// const keyword
 	const PI = 3.14;
 	const double gravity = 9.8;
   
